@@ -23,6 +23,7 @@
 import sys
 import config
 from App import controller
+
 assert config
 
 """
